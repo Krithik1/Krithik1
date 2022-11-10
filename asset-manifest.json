@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Krithik1/static/css/main.073c9b0a.css",
+    "main.js": "/Krithik1/static/js/main.e0489e5f.js",
+    "static/js/787.56d5f327.chunk.js": "/Krithik1/static/js/787.56d5f327.chunk.js",
+    "static/media/logo.svg": "/Krithik1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Krithik1/index.html",
+    "main.073c9b0a.css.map": "/Krithik1/static/css/main.073c9b0a.css.map",
+    "main.e0489e5f.js.map": "/Krithik1/static/js/main.e0489e5f.js.map",
+    "787.56d5f327.chunk.js.map": "/Krithik1/static/js/787.56d5f327.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e0489e5f.js"
+  ]
+}
